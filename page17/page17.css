@@ -1,0 +1,25 @@
+.three-column {
+    padding: 1em;
+    -moz-column-count: 3;
+    -moz-column-gap: 1em;
+    -webkit-column-count: 3;
+    -webkit-column-gap: 1em;
+    column-count: 3;
+    column-gap: 1em;
+    border-style:dashed;
+    border-color:rgb(71, 100, 231) ;
+    border-width: 5px;
+    font-family:Georgia;
+    font-style:normal;
+    font-size: 17px;
+  }
+  h1 {
+      font-family:Georgia, 'Times New Roman', Times, serif;
+      font-style: oblique;
+  }
+  img {
+      width: 300px;
+      border-style:solid;
+      border-color:rgb(214, 146, 100) ;
+      border-width: 4px;
+  }

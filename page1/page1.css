@@ -1,0 +1,14 @@
+#hlm1 {
+    font-size: medium;
+    font-family: Arial;
+    color:white;
+    border-style:solid ;
+    border-color:rgb(5, 243, 164) ;
+    border-width: 5px;
+}
+img {
+    width: 500px;
+    border-style:solid ;
+    border-color:#f313a8 ;
+    border-width: 5px;
+}

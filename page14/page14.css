@@ -1,0 +1,56 @@
+.container {
+    position: relative;
+    border-style:dashed ;
+    border-color:rgb(131, 228, 41) ;
+    border-width: 3px;
+}
+@media (min-width:600px) {
+    nav {
+    float:left;
+    width: 195px;
+    position: absolute;
+    border-style:solid ;
+    border-color:rgb(233, 80, 9) ;
+    border-width: 3px;
+    font-family:fantasy;
+    }
+
+    section {
+    /* position is static by default */
+    margin-left: 200px;
+    border-style:solid ;
+    border-color:rgb(245, 187, 112) ;
+    border-width: 3px;
+    padding: 20px;
+    background-color:wheat;
+    font-family:Helvetica;
+    font-style:unset;
+    }
+}
+ 
+    @media (max-width:599px) {
+    nav li {
+      display: inline;
+    }
+}
+h1 {
+    font-family:monospace;
+    font-style:initial;
+}
+nav {
+    float:left;
+    width: 195px;
+    position: absolute;
+    border-style:solid ;
+    border-color:rgb(233, 80, 9) ;
+    border-width: 3px;
+}
+body {
+    margin-bottom: 120px;
+}
+img {
+    width: 400px;
+    border-style:solid ;
+    border-color:rgb(255, 18, 235) ;
+    border-width: 5px;
+} 

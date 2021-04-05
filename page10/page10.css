@@ -1,0 +1,36 @@
+body {
+  margin: auto;
+  max-width: 700px;
+}
+.box {
+    float: left;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border-style:solid ;
+    border-color:aquamarine ;
+    border-width: 5px;
+  }
+.after-box {
+    clear: left;
+    border-style:dashed ;
+    border-color:rgb(38, 205, 235) ;
+    border-width: 5px;
+  }
+section {
+    border-style:dashed ;
+    border-color:rgb(226, 16, 16) ;
+    border-width: 4px;
+  }
+img {
+    margin: auto;
+    display: block;
+    max-width: 450px;
+    border-style:dashed ;
+    border-color:rgb(255, 94, 0) ;
+    border-width: 5px;
+  }
+h1 {
+  font-family: arial;
+  font-style: oblique;
+}

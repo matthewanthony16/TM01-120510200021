@@ -1,0 +1,7 @@
+#hlm4 {
+    max-width: 600px;
+    margin: 0 auto; 
+    border-style:solid ;
+    border-color: blue ;
+    border-width: 4px; 
+}

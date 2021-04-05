@@ -1,0 +1,12 @@
+.simple {
+    width: 500px;
+    margin: 20px auto;
+    border: solid coral 5px;
+  }
+  
+  .fancy {
+    width: 500px;
+    margin: 20px auto;
+    padding: 20px;
+    border: solid rgb(82, 175, 236) 10px;
+  }

@@ -1,0 +1,40 @@
+#hlm13 {
+    border-style:solid ;
+    border-color: gold ;
+    border-width: 5px;
+    background-color:rgb(31, 209, 156);
+    font-family:Verdana;
+  }
+  article img {
+    float: right;
+    margin: 0 0 1em 1em;
+    width: 50%;
+  }
+  .clearfix {
+    overflow: auto;
+    zoom: 1;
+  }
+  section {
+    /* position is static by default */
+    margin-left: 25%;
+    border-style:solid ;
+    border-color:rgb(245, 187, 112) ;
+    border-width: 3px;
+    padding: 20px;
+    background-color:wheat;
+}
+    nav {
+    float:left;
+    width: 24%;
+    position: absolute;
+    border-style:solid ;
+    border-color:rgb(233, 80, 9) ;
+    border-width: 3px;
+}
+h1 {
+    font-family: arial;
+    font-style: oblique;
+}
+img {
+  width:0 auto;
+}

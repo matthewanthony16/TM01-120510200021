@@ -1,0 +1,20 @@
+h1 {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+img {
+    width: 400px;
+    border-style:dashed;
+    border-color:rgb(252, 111, 17) ;
+    border-width: 5px;
+}
+.hlm19 {
+    border-style:solid;
+    border-color: #13eeee ;
+    border-width: 4px;
+}
+.kedua {
+    border-style:solid;
+    border-color:rgb(7, 170, 235) ;
+    border-width: 4px;
+}
